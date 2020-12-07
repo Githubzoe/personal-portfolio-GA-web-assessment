@@ -124,11 +124,11 @@ h2, h3, h4, h5, h6 {
   border: none;
 }
 .project-section div h2 {
-  padding: 1rem 0;
+  padding: 2rem 0;
   background: -webkit-linear-gradient(#ffefef, #6fd8d4 );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: 7.5rem;
+  font-size: 8rem;
   font-family: 'Sacramento', cursive;
   font-weight: bold;
 }

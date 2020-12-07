@@ -116,7 +116,6 @@ h2, h3, h4, h5, h6 {
 }
 .project-section {
   background-color: #ffefef;
-  padding-bottom: 2rem;
 }
 .card {
   border-radius: 15px;
@@ -124,7 +123,7 @@ h2, h3, h4, h5, h6 {
   border: none;
 }
 .project-section div h2 {
-  padding: 2rem 0;
+  padding: 1rem 0;
   background: -webkit-linear-gradient(#ffefef, #6fd8d4 );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
